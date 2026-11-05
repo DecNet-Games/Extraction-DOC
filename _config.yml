@@ -5,7 +5,7 @@
 # github-pages gem in the Gemfile is the working setup.)
 
 title: Extraction Loop & Stash Kit
-description: Documentation for Extraction Loop & Stash Kit — the complete extraction loop for Unity 6: Tetris-grid stash, raid state machine, insurance, traders and persistent saving.
+description: "Documentation for Extraction Loop & Stash Kit — the complete extraction loop for Unity 6: Tetris-grid stash, raid state machine, insurance, traders and persistent saving."
 baseurl: "/Extraction-DOC"
 url: "https://decnet-games.github.io"
 repository: DecNet-Games/Extraction-DOC
