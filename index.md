@@ -17,6 +17,25 @@ The complete extraction loop for Unity: **stash, raid, extract, insurance and tr
 
 ---
 
+## See the loop run
+
+![Extraction Loop & Stash Kit]({{ site.baseurl }}/assets/images/cover.jpg)
+
+The whole loop in one pass — stash, insure, deploy, loot, extract, settle:
+
+![The extraction loop, animated]({{ site.baseurl }}/assets/images/extraction-loop.gif)
+
+<video controls preload="metadata" style="max-width:100%" src="{{ site.baseurl }}/assets/video/extraction-loop-demo.mp4"></video>
+
+![The stash after a successful raid]({{ site.baseurl }}/assets/images/showcase-stash-grown.jpg)
+*The stash, grown: 1,431 Credits and five stacks after one clean extraction.*
+
+![Inside the Greyline Depot reference raid]({{ site.baseurl }}/assets/images/showcase-in-raid.jpg)
+*Inside Greyline Depot, the playable greybox reference raid.*
+
+![Settlement after a death]({{ site.baseurl }}/assets/images/showcase-death-ledger.jpg)
+*Death has a ledger: the insured rifle comes back; the uninsured medkit does not.*
+
 ## Everything around the shooting
 
 You already have movement and shooting solved. What an extraction game still needs is everything around the shooting: the stash your gear lives in, the raid that puts it at risk, the settlement that decides what you kept and what you lost, the insurance that brings a favourite weapon back, the trader who turns salvage into currency, and the save file that has to hold all of it without ever corrupting. This kit is that layer, as one coherent package built around a single state machine — not four assets glued together.
